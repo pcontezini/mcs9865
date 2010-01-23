@@ -15,5 +15,11 @@ Date 18-4-2008
 Tested 
 1. Differrent BAUD rates, file transfers.
 
+Version 1.1
+--------------
+Date 20-01-2010
 
+1. Updated to kernel 2.6.32.3
+
+Piero B. Contezini (piero@contezini.net)
 
