@@ -1,2 +1,2 @@
-kernel//home/flashbuilder/Linux/mcs9865.ko
-kernel//home/flashbuilder/Linux/mcs9865-isa.ko
+kernel//home/flashbuilder/mcs9865/mcs9865.ko
+kernel//home/flashbuilder/mcs9865/mcs9865-isa.ko
